@@ -1,7 +1,7 @@
 module.exports = [{
     id: 1,
     date: "06-30-2018",
-    artist: "Hi-Dive",
+    artist: "John Johnson",
     contactName: "John Johnson",
     phone: "333-555-8888",
     email: "john@galvanize.com",
@@ -12,7 +12,7 @@ module.exports = [{
 }, {
     id: 2,
     date: "07-10-2018",
-    artist: "Hi-Dive",
+    artist: "Tyler Swift",
     contactName: "Tyler Swift",
     phone: "222-444-9999",
     email: "tyler@galvanize.com",
@@ -23,7 +23,7 @@ module.exports = [{
 }, {
     id: 3,
     date: "07-20-2018",
-    artist: "Hi-Dive",
+    artist: "Jimmy Luffet",
     contactName: "Jimmy Luffet",
     phone: "111-444-5555",
     email: "jimmy@galvanize.com",
