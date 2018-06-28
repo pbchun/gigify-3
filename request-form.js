@@ -7,7 +7,7 @@ module.exports = [{
     email: "john@galvanize.com",
     website: "johnjohnson.com",
     musicSample: "www.youtube.com/johnj",
-    image: "image1.jpg",
+    image: "https://fastercapital.com/images/people/john_johnson.jpg",
     description: "Not Jack Johnson"
 }, {
     id: 2,
@@ -18,17 +18,17 @@ module.exports = [{
     email: "tyler@galvanize.com",
     website: "tylerswift.com",
     musicSample: "www.youtube.com/tylers",
-    image: "image2.jpg",
+    image: "https://s3-us-west-1.amazonaws.com/co-directory-images/tylerjswift.jpg",
     description: "Not Taylor Swift"    
 }, {
     id: 3,
     date: "07-20-2018",
-    artist: "Jimmy Luffet",
-    contactName: "Jimmy Luffet",
+    artist: "John Bayer",
+    contactName: "John Bayer",
     phone: "111-444-5555",
-    email: "jimmy@galvanize.com",
-    website: "jimmyluffet.com",
-    musicSample: "www.youtube.com/jimmyl",
-    image: "image3.jpg",
-    description: "Not Jimmy Buffet"
+    email: "johnb@galvanize.com",
+    website: "johnbayer.com",
+    musicSample: "www.youtube.com/johnb",
+    image: "http://www.bayersolicitors.co.uk/images/bayer_staff_photo_john_bayer.jpg",
+    description: "Not John Mayer"
 }]
