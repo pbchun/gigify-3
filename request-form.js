@@ -1,6 +1,6 @@
 module.exports = [{
     id: 1,
-    date: "06-30-2018",
+    date: "08-30-2018",
     artist: "RUMTUM",
     contactName: "John Hastings",
     phone: "333-555-8888",
@@ -11,7 +11,7 @@ module.exports = [{
     description: "Electronic producer and instrumental enthusiast has a unique approach to crafting his melodic melodies."
 }, {
     id: 2,
-    date: "07-10-2018",
+    date: "09-10-2018",
     artist: "Allout Helter",
     contactName: "Ross Hostage",
     phone: "222-444-9999",
@@ -22,7 +22,7 @@ module.exports = [{
     description: "Allout Helter is always busy annihilating whatever stage they’re on with their intense and engaging live show, having even worked their way to festivals like Riot Fest Denver and The Fest."    
 }, {
     id: 3,
-    date: "07-20-2018",
+    date: "11-20-2018",
     artist: "The Windermeres",
     contactName: "Chris Windermere",
     phone: "111-444-5555",
